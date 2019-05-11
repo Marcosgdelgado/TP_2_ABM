@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1557537473 source:c:\users\marcos\desktop\tp 2 abm\empleado.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"herramientas.h"
+
+1557538810 c:\users\marcos\desktop\tp 2 abm\empleado.h
+
+1557535116 source:c:\users\marcos\desktop\tp 2 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"herramientas.h"
+
+1557535275 c:\users\marcos\desktop\tp 2 abm\herramientas.h
+
+1557535275 source:c:\users\marcos\desktop\tp 2 abm\herramientas.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"herramientas.h"
+
